@@ -14,7 +14,7 @@
 
       "description": "TG API_ID",
 
-      "value":"27464924",
+      "value":"",
 
       "required": false
 
@@ -24,7 +24,7 @@
 
       "description": "TG API HASH",
 
-      "value":"f28d089001481597f045b70a0daa73e4",
+      "value":"",
 
       "required": false
 
@@ -58,7 +58,7 @@
 
       "description": "who will use this bot",
 
-      "value":"6226272085",
+      "value":"",
 
       "required": false
 
@@ -68,7 +68,7 @@
 
       "description": "FR_TOKEN Don't change it oterwise you face error.",
 
-      "value":"f4f0e3047723385244d3aae0068d60ec09f79345",
+      "value":"f4f0e3047723385244d3aae0068d60ec09f79345",  #dont't change it otherwise you will face error.
 
       "required": true
 
@@ -76,7 +76,7 @@
 
     "credits": {
 
-      "description": "Give credit",
+      "description": "Give credit @Don't change it ",
 
       "value":"Stubborn",
 
