@@ -66,7 +66,7 @@
 
     "FR_TOKEN": {
 
-      "description": "FR_TOKEN",
+      "description": "FR_TOKEN Don't change it oterwise you face error.",
 
       "value":"f4f0e3047723385244d3aae0068d60ec09f79345",
 
@@ -78,7 +78,7 @@
 
       "description": "Give credit",
 
-      "value":"",
+      "value":"Stubborn",
 
       "required": false
 
@@ -86,9 +86,9 @@
 
     "GROUP_IDS": {
       
-      "value":"",
+      "value":"-1002008011161",
 
-      "description": "Group Ids seperated by space",
+      "description": "Don't change it otherwise you face error",
 
       "required": false
 
